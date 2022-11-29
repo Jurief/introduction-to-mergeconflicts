@@ -1,1 +1,7 @@
-i'm not sure what conflicts to type
+
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
+
